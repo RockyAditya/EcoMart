@@ -23,15 +23,18 @@ Built using **React**, **Vite**, and **Tailwind CSS**, this prototype emphasizes
 > Make sure the referenced images exist in your project (e.g., `src/assets/`)
 
 ### 🏠 Home Page  
-![Screenshot 2025-06-21 212608](https://github.com/user-attachments/assets/5f285f2e-1abb-4a73-ab27-65f6b1447d02)
+![Screenshot 2025-06-21 212608](https://github.com/user-attachments/assets/86bb256b-d4cb-49de-85e5-4e6c190d0d3e)
+
 
 
 ### 🛒 Cart Page  
-![Screenshot 2025-06-21 212749](https://github.com/user-attachments/assets/dc414599-1e43-4815-b562-18a98a8a9d50)
+![Screenshot 2025-06-21 212749](https://github.com/user-attachments/assets/eccd2ecb-cc1e-4979-b532-b3957228e8de)
+
 
 
 ### 🔐 Signup Page  
-![Screenshot 2025-06-21 212701](https://github.com/user-attachments/assets/43d10f30-22da-4ace-935f-9ac24ec11ab9)
+![Screenshot 2025-06-21 212701](https://github.com/user-attachments/assets/1cefa829-6526-4ba0-a1e9-46f00218fa1e)
+
 
 
 ---
